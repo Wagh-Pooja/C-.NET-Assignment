@@ -1,0 +1,17 @@
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.frm_Login.resources
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.Properties.Resources.resources
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.csproj.GenerateResource.Cache
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\bin\Debug\Book_Mgt_System_01.exe
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\bin\Debug\Book_Mgt_System_01.pdb
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.exe
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.pdb
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\bin\Debug\Book_Mgt_System_01.exe.config
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.frm_Add_New_Book.resources
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.frm_View_All_Books.resources
+R:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.csprojResolveAssemblyReference.cache
+F:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\bin\Debug\Book_Mgt_System_01.exe.config
+F:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.exe
+F:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.pdb
+D:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\bin\Debug\Book_Mgt_System_01.exe.config
+D:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.exe
+D:\C#.net Assingment\Book_Mgt_System_01\Book_Mgt_System_01\obj\x86\Debug\Book_Mgt_System_01.pdb
